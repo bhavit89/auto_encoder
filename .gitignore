@@ -1,4 +1,3 @@
-assets/
 __pycache__/
 data/
 runs/auto_encoder_mnist/
